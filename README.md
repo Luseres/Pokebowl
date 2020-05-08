@@ -1,4 +1,4 @@
-# Pokebowl
+# Pokebowl - PokeBowlGo
 
 ## Team:
 - Joshua van der Poll [Backend]
