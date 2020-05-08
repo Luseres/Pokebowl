@@ -1,11 +1,10 @@
 # Pokebowl
 
 ## Team:
-- Joshua van der Poll
-- Osman Öz
-- Wiebe Ranzijn
-- Brian Loman
+- Joshua van der Poll [Backend]
+- Osman Öz [Frontend]
+- Wiebe Ranzijn [Frontend / Design]
+- Brian Loman [Frontend]
 
 ## Vragenlijst docenten:
-- Moet er een bepaald thema aan de pokebowl app
-- Kan je een bestaand pokebowl bedrijf gebruiken zoals (Julia's)
+WIP
