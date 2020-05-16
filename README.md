@@ -1,5 +1,9 @@
 # Pokebowl K_MOB App - PokeBowlGo
 
+## ToDo voor volgende week:
+- [x] Afbeeldingen
+- [] Presentatie
+
 ## Team:
 - Joshua van der Poll [Backend]
 - Osman Öz [Frontend]
