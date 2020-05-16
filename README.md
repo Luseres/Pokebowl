@@ -2,7 +2,7 @@
 
 ## ToDo voor volgende week:
 - [x] Afbeeldingen
-- [] Presentatie
+- [ ] Presentatie
 
 ## Team:
 - Joshua van der Poll [Backend]
