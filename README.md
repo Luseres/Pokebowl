@@ -1,6 +1,10 @@
 # Pokebowl K_MOB App - PokeBowlGo
 
-## ToDo voor volgende week:
+## Todo:
+- [x] Team samenstellen
+- [x] Team rollen
+- [x] Vragenlijst maken
+- [x] Flowchart
 - [x] Afbeeldingen
 - [ ] Presentatie
 
