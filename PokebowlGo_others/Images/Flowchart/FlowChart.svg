@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1635" height="920" viewBox="0 0 1635 920">
+  <defs>
+    <clipPath id="clip-FlowChart">
+      <rect width="1635" height="920"/>
+    </clipPath>
+  </defs>
+  <g id="FlowChart" clip-path="url(#clip-FlowChart)">
+    <rect width="1635" height="920" fill="#fff"/>
+    <g id="Group_34" data-name="Group 34" transform="translate(-8 25)">
+      <text id="PokeBowlGo" transform="translate(321 84)" font-size="40" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-114.385" y="0">PokeBowlGo</tspan></text>
+      <line id="Line_12" data-name="Line 12" x2="76" transform="translate(207.5 105.5)" fill="none" stroke="#f60" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Group_33" data-name="Group 33" transform="translate(34 -6)">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="215" height="88" transform="translate(209 353)" fill="#49e2a6"/>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="215" height="88" transform="translate(634 242)" fill="#49e2a6"/>
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="291" height="88" transform="translate(171 603)" fill="#47be8f"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="291" height="88" transform="translate(1111 432)" fill="#df6120"/>
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="291" height="88" transform="translate(1111 242)" fill="#df6120"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="291" height="88" transform="translate(1110 603)" fill="#df6120"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="291" height="88" transform="translate(682 603)" fill="#47be8f"/>
+      <text id="Home" transform="translate(317 408)" fill="#fff" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-40.173" y="0">Home</tspan></text>
+      <text id="Order_info" data-name="Order info" transform="translate(742 297)" fill="#fff" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-67.69" y="0">Order info</tspan></text>
+      <text id="Ingredients_list" data-name="Ingredients list" transform="translate(317 658)" fill="#fff" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-100.964" y="0">Ingredients list</tspan></text>
+      <text id="Payment_method" data-name="Payment method" transform="translate(1257 487)" fill="#fff" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-114.844" y="0">Payment method</tspan></text>
+      <text id="Order_info_payment_confirmation" data-name="Order info &amp;
+payment confirmation" transform="translate(1257 280)" fill="#fff" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-67.725" y="0">Order info &amp;</tspan><tspan x="-123.718" y="30">payment confirmation</tspan></text>
+      <text id="Address_form" data-name="Address form" transform="translate(1256 658)" fill="#fff" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-91.912" y="0">Address form</tspan></text>
+      <text id="Info_page_What_you_have_selected_" data-name="Info page
+(What you have selected)" transform="translate(828 647)" fill="#fff" font-size="33" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-69.875" y="0">Info page</tspan><tspan font-size="20"><tspan x="-113.486" y="27">(What you have selected)</tspan></tspan></text>
+      <text id="What_is_a_PokeBowl_" data-name="What is a PokeBowl?" transform="translate(665 489)" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-116.76" y="0">What is a PokeBowl?</tspan></text>
+      <text id="Terms_of_service" data-name="Terms of service" transform="translate(647 406)" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-94.287" y="0">Terms of service</tspan></text>
+      <g id="Group_22" data-name="Group 22" transform="matrix(0.914, 0.407, -0.407, 0.914, 150.381, 26.446)">
+        <line id="Line_13" data-name="Line 13" x2="76" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1" data-name="Polygon 1" transform="translate(530 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_31" data-name="Group 31" transform="translate(448.792 37.764)">
+        <line id="Line_13-2" data-name="Line 13" x2="173.615" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_2-2" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_32" data-name="Group 32" transform="translate(-50.845 284.541) rotate(-22)">
+        <line id="Line_13-3" data-name="Line 13" x2="167.386" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_2-3" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_24" data-name="Group 24" transform="translate(560 36) rotate(90)">
+        <line id="Line_13-4" data-name="Line 13" x2="76" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1-2" data-name="Polygon 1" transform="translate(530 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2-4" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_28" data-name="Group 28" transform="translate(1505 84) rotate(90)">
+        <line id="Line_13-5" data-name="Line 13" x2="58" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1-3" data-name="Polygon 1" transform="translate(512 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2-5" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_30" data-name="Group 30" transform="translate(1505 -91.506) rotate(90)">
+        <line id="Line_13-6" data-name="Line 13" x2="38.506" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1-4" data-name="Polygon 1" transform="translate(492.506 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2-6" data-name="Polygon 2" transform="translate(443.506 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(84 399)">
+        <line id="Line_13-7" data-name="Line 13" x2="76" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1-5" data-name="Polygon 1" transform="translate(530 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2-7" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_29" data-name="Group 29" transform="translate(546 399)">
+        <line id="Line_13-8" data-name="Line 13" x2="76" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1-6" data-name="Polygon 1" transform="translate(530 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2-8" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <g id="Group_23" data-name="Group 23" transform="translate(8 148)">
+        <line id="Line_13-9" data-name="Line 13" x2="76" transform="translate(448.5 248.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <g id="Polygon_1-7" data-name="Polygon 1" transform="translate(530 243) rotate(90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Polygon_2-9" data-name="Polygon 2" transform="translate(444 255) rotate(-90)" fill="#fff">
+          <path d="M 11.11690044403076 9.5 L 0.8830999732017517 9.5 L 6 0.971833348274231 L 11.11690044403076 9.5 Z" stroke="none"/>
+          <path d="M 6 1.943650245666504 L 1.766189575195313 9 L 10.23381042480469 9 L 6 1.943650245666504 M 6 0 L 12 10 L 0 10 L 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+      <text id="Done" transform="translate(571 635)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-18.461" y="0">Done</tspan></text>
+      <text id="Next" transform="translate(1033 635)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.52" y="0">Next</tspan></text>
+      <text id="Next-2" data-name="Next" transform="translate(979 271)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.52" y="0">Next</tspan></text>
+      <text id="Finish" transform="translate(534.06 307.6) rotate(-22)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-21.25" y="0">Finish</tspan></text>
+      <text id="Create_a_pokebowl" data-name="Create a pokebowl" transform="translate(231 530)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-65.863" y="0">Create a pokebowl</tspan></text>
+      <text id="Next-3" data-name="Next" transform="translate(1219 568)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.52" y="0">Next</tspan></text>
+      <text id="Next-4" data-name="Next" transform="translate(1223 382)" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-16.52" y="0">Next</tspan></text>
+    </g>
+    <text id="Flowchart-2" data-name="Flowchart" transform="translate(254 173)" fill="#949494" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="-55.31" y="0">Flowchart</tspan></text>
+  </g>
+</svg>
