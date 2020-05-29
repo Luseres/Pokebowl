@@ -1,5 +1,8 @@
 # Pokebowl K_MOB App - PokeBowlGo
 
+## Presentatie:
+https://www.youtube.com/watch?v=HNdnfFl0VGM
+
 ## Todo:
 - [x] Team samenstellen
 - [x] Team rollen
