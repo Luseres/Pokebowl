@@ -9,13 +9,14 @@ https://www.youtube.com/watch?v=HNdnfFl0VGM
 - [x] Vragenlijst maken
 - [x] Flowchart
 - [x] Afbeeldingen
-- [ ] Presentatie
+- [x] Presentatie
+- [ ] Test plan
 
 ## Team:
-- Joshua van der Poll [Backend]
-- Osman Öz [Frontend]
+- Joshua van der Poll [Backend / Lead]
+- Osman Öz [Frontend / Presentaties]
 - Wiebe Ranzijn [Frontend / Design]
-- Brian Loman [Frontend]
+- Brian Loman [Frontend / Presentaties]
 
 ## Vragenlijst docenten:
 ### Wat is mij nog niet duidelijk over de opdracht?
