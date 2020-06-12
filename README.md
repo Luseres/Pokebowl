@@ -6,7 +6,10 @@
 - [x] Vragenlijst maken
 - [x] Flowchart
 - [x] Afbeeldingen
-- [ ] Presentatie
+- [x] Presentatie video
+- [ ] Prototypen
+- [ ] Presentatie 2?
+- [ ] Testplan
 
 ## Team:
 - Joshua van der Poll [Backend]
