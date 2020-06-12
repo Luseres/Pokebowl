@@ -10,9 +10,15 @@ https://www.youtube.com/watch?v=HNdnfFl0VGM
 - [x] Flowchart
 - [x] Afbeeldingen
 - [x] Presentatie video
-- [ ] Prototypen
-- [ ] Presentatie 2?
-- [ ] Testplan
+- [ ] Prototypen (Heeft wiebe maar is absent deze les)
+- [ ] Presentatie 2
+- [x] Testplan
+
+## Testplan:
+- Bij het toevoegen van nieuwe functies testen wij deze uit met gebruik van Unit functies.
+- Bij het toevoegen van nieuwe elementen op de app checken wij of deze op alle devices zichtbaar zijn
+- Alle teksten worden gecheckt of het spelfouten bevat en proffesioneel klint
+- Alle schermen worden checkt of ze bereikbaar zijn vanuit andere delen uit de app dus geen deadlinks
 
 ## Team:
 - Joshua van der Poll [Backend / Lead]
