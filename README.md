@@ -12,10 +12,12 @@
 - [x] Flowchart
 - [x] Afbeeldingen
 - [x] Presentatie video
-- [ ] Prototypen (Heeft wiebe maar is absent deze les)
-- [ ] Presentatie 2
+- [x] Prototypen (Staat in resources)
+- [x] Presentatie 2
 - [ ] User stories
 - [x] Testplan
+- [ ] Backend
+- [ ] Frontend
 
 ## Testplan:
 - Bij het toevoegen van nieuwe functies testen wij deze uit met gebruik van Unit functies.
