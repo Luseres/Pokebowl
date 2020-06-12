@@ -1,8 +1,8 @@
 # Pokebowl K_MOB App - PokeBowlGo
 
 ## Resources:
-Presentatie 1: https://www.youtube.com/watch?v=HNdnfFl0VGM
-Prototypen 1: https://xd.adobe.com/view/3a234b83-ef65-478a-7039-ffc71d5ce615-4c12/
+- Presentatie 1: https://www.youtube.com/watch?v=HNdnfFl0VGM
+- Prototypen 1: https://xd.adobe.com/view/3a234b83-ef65-478a-7039-ffc71d5ce615-4c12/
 
 
 ## Todo:
