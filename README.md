@@ -1,7 +1,9 @@
 # Pokebowl K_MOB App - PokeBowlGo
 
-## Presentatie:
-https://www.youtube.com/watch?v=HNdnfFl0VGM
+## Resources:
+Presentatie 1: https://www.youtube.com/watch?v=HNdnfFl0VGM
+Prototypen 1: https://xd.adobe.com/view/3a234b83-ef65-478a-7039-ffc71d5ce615-4c12/
+
 
 ## Todo:
 - [x] Team samenstellen
@@ -12,6 +14,7 @@ https://www.youtube.com/watch?v=HNdnfFl0VGM
 - [x] Presentatie video
 - [ ] Prototypen (Heeft wiebe maar is absent deze les)
 - [ ] Presentatie 2
+- [ ] User stories
 - [x] Testplan
 
 ## Testplan:
@@ -19,6 +22,7 @@ https://www.youtube.com/watch?v=HNdnfFl0VGM
 - Bij het toevoegen van nieuwe elementen op de app checken wij of deze op alle devices zichtbaar zijn
 - Alle teksten worden gecheckt of het spelfouten bevat en proffesioneel klint
 - Alle schermen worden checkt of ze bereikbaar zijn vanuit andere delen uit de app dus geen deadlinks
+- Userstories worden aan het eind van elke sprint uitgetest of ze allemaal verwerkt zijn
 
 ## Team:
 - Joshua van der Poll [Backend / Lead]
