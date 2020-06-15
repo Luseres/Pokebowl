@@ -2,7 +2,7 @@
 
 ## Resources:
 - Presentatie 1: https://www.youtube.com/watch?v=HNdnfFl0VGM
-- Prototypen 1: https://xd.adobe.com/view/3a234b83-ef65-478a-7039-ffc71d5ce615-4c12/
+- Prototypen 1: https://xd.adobe.com/view/e0c5a03e-feea-4f89-60e8-5c223b151e41-96f4/?fullscreen
 
 
 ## Todo:
