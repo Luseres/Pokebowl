@@ -1,3 +1,28 @@
 <resources>
+    <!-- App Name -->
     <string name="app_name">Pokebowl</string>
+
+    <!-- Image Text -->
+    <string name="line">Line</string>
+    <string name="questionmark">Questionmark</string>
+    <string name="arrow">Arrow</string>
+
+    <!-- Main Page -->
+    <string name="appTitle">PokeBowlGo</string>
+    <string name="serveFood">We serve food!</string>
+    <string name="punchLineOne">A place where we</string>
+    <string name="punchLineTwo">deliver you</string>
+    <string name="punchLineThree">a fresh</string>
+    <string name="punchLineFour">self made Pokebowl</string>
+    <string name="createBtn">Create a PokeBowl</string>
+    <string name="whatBtn">What is a PokeBowl?</string>
+    <string name="termsBtn">Terms of service</string>
+
+    <!-- What is a pokebowl -->
+    <string name="whatPoke">What is a pokebowl?</string>
+    <string name="createPoke">Create your own!</string>
+    <string name="textLine">Poke is diced raw fish served either as an appetizer or as a main course
+        and is one of the main dishes of Native Hawaiian cuisine. Traditional forms are aku and
+        heʻe. Heʻe poke is usually called by its Japanese name tako poke, except in places like the
+        island of Niʻihau where the Hawaiian language is spoken.</string>
 </resources>

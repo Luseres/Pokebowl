@@ -1,4 +1,4 @@
-package org.joshuavanderpoll.pokebowl;
+package com.example.pokebowlgo;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("org.joshuavanderpoll.pokebowl", appContext.getPackageName());
+        assertEquals("com.example.pokebowlgo", appContext.getPackageName());
     }
 }

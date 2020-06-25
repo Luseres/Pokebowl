@@ -1,4 +1,4 @@
-package org.joshuavanderpoll.pokebowl;
+package com.example.pokebowlgo;
 
 import org.junit.Test;
 
