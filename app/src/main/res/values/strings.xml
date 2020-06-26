@@ -35,6 +35,9 @@
 
 <!--   Osman  -->
     <string name="address">Address</string>
-    <string name="address">Address 2 (optional)</string>
+    <string name="address2">Address 2 (optional)</string>
     <string name="city">City</string>
+    <string name="stateProvince">State/Province</string>
+    <string name="Country">Country (Listed are the only places we ship in)</string>
+    <string name="continueBtn">Continue</string>
 </resources>

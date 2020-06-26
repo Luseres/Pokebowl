@@ -6,11 +6,111 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView12"
+    <EditText
+        android:id="@+id/editText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/voornaam"
-        tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="85dp" />
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/city"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="226dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="48dp"
+        android:layout_height="15dp"
+        android:text="@string/address"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="105dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="249dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="308dp" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="370dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/address2"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="166dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="189dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stateProvince"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="284dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Country"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="345dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="422dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
