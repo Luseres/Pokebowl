@@ -18,6 +18,7 @@
     <string name="whatBtn">What is a PokeBowl?</string>
     <string name="termsBtn">Terms of service</string>
 
+
     <!-- What is a pokebowl -->
     <string name="whatPoke">What is a pokebowl?</string>
     <string name="createPoke">Create your own!</string>
@@ -29,4 +30,9 @@
     <!-- Terms of service -->
     <string name="termsPoke">Terms of service</string>
     <string name="termsText">Your money, our money.</string>
+
+<!--   Osman  -->
+    <string name="voornaam">Voornaam</string>
+    <string name="achternaam">Achternaam</string>
+    <string name="achternaam">Achternaam</string>
 </resources>
