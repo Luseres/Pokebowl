@@ -68,7 +68,7 @@
         android:layout_marginStart="54dp"
         android:layout_marginLeft="54dp"
         android:layout_marginBottom="117dp"
-        android:background="@color/colorButtonOne"
+        android:background="@drawable/custom_button"
         android:text="@string/createPoke"
         android:textColor="@color/colorButtonText"
         android:textSize="20sp"
