@@ -25,4 +25,8 @@
         and is one of the main dishes of Native Hawaiian cuisine. Traditional forms are aku and
         heʻe. Heʻe poke is usually called by its Japanese name tako poke, except in places like the
         island of Niʻihau where the Hawaiian language is spoken.</string>
+
+    <!-- Terms of service -->
+    <string name="termsPoke">Terms of service</string>
+    <string name="termsText">Your money, our money.</string>
 </resources>
