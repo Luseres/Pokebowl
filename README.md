@@ -14,10 +14,14 @@
 - [x] Presentatie video
 - [x] Prototypen (Staat in resources)
 - [x] Presentatie 2
-- [ ] User stories
+- [x] User stories
 - [x] Testplan
 - [ ] Backend
 - [ ] Frontend
+- [ ] User tests
+- [ ] Presentatie 3
+- [ ] Accept Test
+- [ ] Eind product
 
 ## Testplan:
 - Bij het toevoegen van nieuwe functies testen wij deze uit met gebruik van Unit functies.
