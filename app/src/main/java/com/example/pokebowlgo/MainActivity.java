@@ -9,6 +9,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button createPokebowlBtn = (Button) findViewById(R.id.buttonCreatePokebowl);
-        TextView termsBtn = (TextView) findViewById(R.id.termsBtn);
-        TextView aboutBtn = (TextView) findViewById(R.id.aboutBtn);
+        ImageView termsBtn = (ImageView) findViewById(R.id.termsBtn);
+        ImageView aboutBtn = (ImageView) findViewById(R.id.aboutBtn);
 
         createPokebowlBtn.setOnClickListener(new View.OnClickListener() {
             @Override
