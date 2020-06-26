@@ -7,14 +7,14 @@
     android:layout_height="match_parent">
 
     <EditText
-        android:id="@+id/editText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/editText3"
+        android:layout_width="282dp"
+        android:layout_height="28dp"
         android:background="@drawable/test_input"
         android:ems="10"
         android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="128dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="242dp" />
 
     <TextView
         android:id="@+id/textView15"
@@ -23,8 +23,8 @@
         android:text="@string/city"
         android:textColor="@color/colorText"
         android:textSize="12sp"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="226dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="219dp" />
 
     <TextView
         android:id="@+id/textView13"
@@ -33,58 +33,28 @@
         android:text="@string/address"
         android:textColor="@color/colorText"
         android:textSize="12sp"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="105dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="98dp" />
 
     <EditText
-        android:id="@+id/editText3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_width="282dp"
+        android:layout_height="28dp"
         android:background="@drawable/test_input"
         android:ems="10"
         android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="249dp" />
-
-    <EditText
-        android:id="@+id/editText4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/test_input"
-        android:ems="10"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="308dp" />
-
-    <EditText
-        android:id="@+id/editText5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@drawable/test_input"
-        android:ems="10"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="370dp" />
-
-    <TextView
-        android:id="@+id/textView14"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/address2"
-        android:textColor="@color/colorText"
-        android:textSize="12sp"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="166dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="121dp" />
 
     <EditText
         android:id="@+id/editText2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="282dp"
+        android:layout_height="28dp"
         android:background="@drawable/test_input"
         android:ems="10"
         android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="189dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="182dp" />
 
     <TextView
         android:id="@+id/textView16"
@@ -93,8 +63,18 @@
         android:text="@string/stateProvince"
         android:textColor="@color/colorText"
         android:textSize="12sp"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="284dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="277dp" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="282dp"
+        android:layout_height="28dp"
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="363dp" />
 
     <TextView
         android:id="@+id/textView17"
@@ -103,14 +83,37 @@
         android:text="@string/Country"
         android:textColor="@color/colorText"
         android:textSize="12sp"
-        tools:layout_editor_absoluteX="34dp"
-        tools:layout_editor_absoluteY="345dp" />
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="338dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/address2"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="159dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="282dp"
+        android:layout_height="28dp"
+        android:background="@drawable/test_input"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="301dp" />
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="129dp"
-        tools:layout_editor_absoluteY="422dp" />
+        android:layout_width="156dp"
+        android:layout_height="36dp"
+        android:background="@drawable/black_button"
+        android:text="@string/continueBtn"
+        android:textColor="@color/colorButtonText"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="483dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
