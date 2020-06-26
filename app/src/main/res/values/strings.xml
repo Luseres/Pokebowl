@@ -32,7 +32,7 @@
     <string name="termsText">Your money, our money.</string>
 
 <!--   Osman  -->
-    <string name="voornaam">Voornaam</string>
-    <string name="achternaam">Achternaam</string>
-    <string name="achternaam">Achternaam</string>
+    <string name="address">Address</string>
+    <string name="address">Address 2 (optional)</string>
+    <string name="city">City</string>
 </resources>
