@@ -21,7 +21,7 @@
         app:layout_constraintVertical_bias="0.204" />
 
     <TextView
-        android:id="@+id/textView11"
+        android:id="@+id/aboutBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/whatBtn"
@@ -59,7 +59,7 @@
         app:srcCompat="@drawable/questionmark" />
 
     <TextView
-        android:id="@+id/textView12"
+        android:id="@+id/termsBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/termsBtn"
@@ -149,8 +149,8 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <Button
-        android:id="@+id/button"
-        style="@style/AppTheme"
+        android:id="@+id/buttonCreatePokebowl"
+        style="@style/Theme.AppCompat.Light"
         android:layout_width="302dp"
         android:layout_height="68dp"
         android:layout_marginStart="54dp"
@@ -166,6 +166,7 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
