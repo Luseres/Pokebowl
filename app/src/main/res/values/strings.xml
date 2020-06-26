@@ -6,6 +6,7 @@
     <string name="line">Line</string>
     <string name="questionmark">Questionmark</string>
     <string name="arrow">Arrow</string>
+    <string name="rectangle">Rectangle</string>
 
     <!-- Main Page -->
     <string name="appTitle">PokeBowlGo</string>
@@ -30,6 +31,7 @@
     <!-- Terms of service -->
     <string name="termsPoke">Terms of service</string>
     <string name="termsText">Your money, our money.</string>
+    <string name="textview">TextView</string>
 
 <!--   Osman  -->
     <string name="address">Address</string>
