@@ -64,4 +64,11 @@
     <string name="confirmOrder">Confirm order</string>
     <string name="month">MM</string>
     <string name="year">YY</string>
+    
+    <!-- Create your own pokebowl -->
+    <string name="createYourOwn">Create your own</string>
+    <string name="createYourPoke">Pokebowl</string>
+
+    <!-- Selected Ingredients -->
+    <string name="selectedIngredients">Selected ingredients</string>
 </resources>
