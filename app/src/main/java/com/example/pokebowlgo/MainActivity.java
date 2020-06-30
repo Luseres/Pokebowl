@@ -4,13 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.text.method.LinkMovementMethod;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,13 +23,13 @@ public class MainActivity extends AppCompatActivity {
         createPokebowlBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, MakePoke.class));
+                startActivity(new Intent(MainActivity.this, MakeBowl.class));
             }
         });
         termsBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, TermsPoke.class));
+                startActivity(new Intent(MainActivity.this, TermsOfService.class));
             }
         });
         aboutBtn.setOnClickListener(new View.OnClickListener() {

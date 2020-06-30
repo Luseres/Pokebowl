@@ -12,7 +12,7 @@ public class WhatIsPoke extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.poke_what);
+        setContentView(R.layout.what_is_poke);
 
         ImageView returnBtn = (ImageView) findViewById(R.id.aboutBack);
         returnBtn.setOnClickListener(new View.OnClickListener() {
