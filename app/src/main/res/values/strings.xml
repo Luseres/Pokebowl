@@ -33,11 +33,35 @@
     <string name="termsText">Your money, our money.</string>
     <string name="textview">TextView</string>
 
-<!--   Osman  -->
+    <!-- Payment Method -->
+    <string name="selectMethod">Select payment method</string>
+
+    <!-- Country Spinner -->
+    <string-array name="countries">
+        <item>Netherlands</item>
+        <item>Germany</item>
+        <item>France</item>
+        <item>Belgium</item>
+        <item>Luxembourg</item>
+    </string-array>
+
+    <!-- Address Form -->
+    <string name="enterAddress">Please enter your address.</string>
     <string name="address">Address</string>
     <string name="address2">Address 2 (optional)</string>
     <string name="city">City</string>
     <string name="stateProvince">State/Province</string>
     <string name="Country">Country (Listed are the only places we ship in)</string>
     <string name="continueBtn">Continue</string>
+    
+    <!-- Creditcard Payment -->
+    <string name="creditcardInfo">Creditcard info</string>
+    <string name="cardHolderName">Card holder name</string>
+    <string name="cardNumber">Card number</string>
+    <string name="securityCode">Security code (CVC)</string>
+    <string name="cardIssuer">Card issuer</string>
+    <string name="cardExpiryDate">Card expiry date</string>
+    <string name="confirmOrder">Confirm order</string>
+    <string name="month">MM</string>
+    <string name="year">YY</string>
 </resources>
