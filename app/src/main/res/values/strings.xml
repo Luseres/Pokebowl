@@ -68,7 +68,15 @@
     <!-- Create your own pokebowl -->
     <string name="createYourOwn">Create your own</string>
     <string name="createYourPoke">Pokebowl</string>
+    <string name="chicken">Chicken</string>
+    <string name="kha1">30 kha</string>
+
 
     <!-- Selected Ingredients -->
     <string name="selectedIngredients">Selected ingredients</string>
+
+    <!-- Order Overview -->
+    <string name="pokeOnItsWay">Pokebowl is on its way!</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="returnHome">Return home</string>
 </resources>

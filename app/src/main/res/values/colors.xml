@@ -11,4 +11,5 @@
     <color name="colorButtonOne">#46E1A6</color>
     <color name="colorButtonTwo">#A3E780</color>
     <color name="colorRectangleBorder">#C5C5C5</color>
+    <color name="colorGrayRectangle">#FCFCFC</color>
 </resources>
