@@ -6,12 +6,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.RadioButton;
 
-public class MakeBowlTwo extends AppCompatActivity {
+public class MakeBowlSix extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.make_bowl_two);
+        setContentView(R.layout.make_bowl_six);
+
 
     }
 
@@ -20,22 +21,22 @@ public class MakeBowlTwo extends AppCompatActivity {
         boolean checked = ((RadioButton) view).isChecked();
 
         // Check which radio button was clicked
-        switch (view.getId()) {
-            case R.id.seaweed:
+        switch(view.getId()) {
+            case R.id.pineapple:
                 if (checked)
-                    // Seaweed
+                    // Pineapple
                     break;
-            case R.id.avocado:
+            case R.id.tamago:
                 if (checked)
-                    // Avocado
+                    // Tamago
                     break;
-            case R.id.crab:
+            case R.id.corn:
                 if (checked)
-                    // Crab
+                    // Tamago
                     break;
-            case R.id.edamame:
+            case R.id.sesameseed:
                 if (checked)
-                    // Edamame
+                    // Tamago
                     break;
         }
     }

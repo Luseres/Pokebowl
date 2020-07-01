@@ -70,7 +70,12 @@
     <string name="createYourOwn">Create your own</string>
     <string name="createYourPokeBase">Pokebowl - Base</string>
     <string name="createYourPokeSide">Pokebowl - Sides</string>
+    <string name="createYourPokeProtein">Pokebowl - Protein</string>
+    <string name="createYourPokeMix">Pokebowl - Mix-Ins</string>
+    <string name="createYourPokeSauce">Pokebowl - Sauce</string>
+    <string name="createYourPokeTopping">Pokebowl - Topping</string>
     <string name="next">Next</string>
+    <string name="done">Done</string>
     <string name="brown">Brown Rice</string>
     <string name="white">White Rice</string>
     <string name="mixed">Mixed Rice</string>
@@ -78,10 +83,27 @@
     <string name="edamame">Edamame</string>
     <string name="crab">Crab Meat</string>
     <string name="avocado">Avocado</string>
+    <string name="chicken">Chicken</string>
+    <string name="salmon">Salmon</string>
+    <string name="shrimp">Shrimp</string>
+    <string name="tuna">Tuna</string>
+    <string name="cilantro">Cilantro</string>
+    <string name="cucumber">Cucumber</string>
+    <string name="jalapeno">Jalapeno</string>
+    <string name="onion">Onion</string>
+    <string name="sesamedressing">Sesame Dressing</string>
+    <string name="sweetchili">Sweet Chili</string>
+    <string name="spicymayo">Spicy Mayo</string>
+    <string name="wasabiaioli">Wasabi Aioli</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="sesameseeds">Sesame Seeds</string>
+    <string name="tamago">Tamago</string>
+    <string name="corn">Corn</string>
 
     <!-- Selected Ingredients -->
     <string name="selectedIngredients">Selected ingredients</string>
     <string name="createYourPoke">Pokebowl</string>
+    <string name="continuePayment">Continue Payment</string>
 
     <!-- Order Overview -->
     <string name="pokeOnItsWay">Pokebowl is on its way!</string>

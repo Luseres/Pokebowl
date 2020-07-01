@@ -6,7 +6,45 @@
     android:layout_height="match_parent">
 
     <ImageView
-        android:id="@+id/rectimage5"
+        android:id="@+id/rectangle20"
+        android:layout_width="fill_parent"
+        android:layout_height="76dp"
+        android:layout_marginTop="452dp"
+        android:contentDescription="@string/rectangle"
+        android:src="@drawable/custom_rectangle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView56"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="476dp"
+        android:text="@string/sesameseeds"
+        android:textColor="@color/colorText"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView36"
+        android:layout_width="77dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="464dp"
+        android:contentDescription="@string/onion"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/sesameseed" />
+
+    <ImageView
+        android:id="@+id/rectimage9"
         android:layout_width="fill_parent"
         android:layout_height="128dp"
         android:contentDescription="@string/rectangle"
@@ -16,7 +54,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView9"
+        android:id="@+id/imageView37"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="@string/line"
@@ -25,7 +63,7 @@
         app:srcCompat="@drawable/line" />
 
     <ImageView
-        android:id="@+id/imageView10"
+        android:id="@+id/imageView38"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
@@ -37,7 +75,7 @@
         app:srcCompat="@drawable/arrow" />
 
     <TextView
-        android:id="@+id/textView24"
+        android:id="@+id/textView57"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
@@ -50,13 +88,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView25"
+        android:id="@+id/textView58"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="75dp"
-        android:text="@string/createYourPokeBase"
+        android:text="@string/createYourPokeTopping"
         android:textColor="@color/colorText"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -64,7 +102,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/rectangle1"
+        android:id="@+id/rectangle21"
         android:layout_width="fill_parent"
         android:layout_height="76dp"
         android:layout_marginTop="160dp"
@@ -77,7 +115,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/rectangle2"
+        android:id="@+id/rectangle22"
         android:layout_width="fill_parent"
         android:layout_height="76dp"
         android:layout_marginTop="260dp"
@@ -89,7 +127,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/rectangle3"
+        android:id="@+id/rectangle23"
         android:layout_width="fill_parent"
         android:layout_height="76dp"
         android:layout_marginTop="356dp"
@@ -101,7 +139,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/rectangle4"
+        android:id="@+id/rectangle24"
         android:layout_width="fill_parent"
         android:layout_height="89dp"
         android:background="@drawable/total_rectangle"
@@ -113,13 +151,13 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
-        android:id="@+id/textView30"
+        android:id="@+id/textView59"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="37dp"
         android:layout_marginRight="37dp"
         android:layout_marginBottom="29dp"
-        android:text="@string/next"
+        android:text="@string/done"
         android:textColor="@color/colorButtonText"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -127,7 +165,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView14"
+        android:id="@+id/imageView39"
         android:layout_width="77dp"
         android:layout_height="53dp"
         android:layout_marginStart="30dp"
@@ -136,40 +174,40 @@
         android:contentDescription="@string/image"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/mixed" />
+        app:srcCompat="@drawable/pineapple" />
 
     <ImageView
-        android:id="@+id/imageView17"
+        android:id="@+id/imageView40"
         android:layout_width="77dp"
         android:layout_height="53dp"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="271dp"
-        android:contentDescription="@string/image"
+        android:contentDescription="@string/cucumber"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/white" />
+        app:srcCompat="@drawable/tamago" />
 
     <ImageView
-        android:id="@+id/imageView18"
+        android:id="@+id/imageView41"
         android:layout_width="77dp"
         android:layout_height="53dp"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
         android:layout_marginTop="368dp"
-        android:contentDescription="@string/image"
+        android:contentDescription="@string/spicymayo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/brown" />
+        app:srcCompat="@drawable/corn" />
 
     <TextView
-        android:id="@+id/textView31"
+        android:id="@+id/textView60"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="124dp"
         android:layout_marginLeft="124dp"
         android:layout_marginTop="180dp"
-        android:text="@string/mixed"
+        android:text="@string/pineapple"
         android:textColor="@color/colorText"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -177,13 +215,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView32"
+        android:id="@+id/textView61"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="124dp"
         android:layout_marginLeft="124dp"
         android:layout_marginTop="280dp"
-        android:text="@string/white"
+        android:text="@string/tamago"
         android:textColor="@color/colorText"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -191,13 +229,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView33"
+        android:id="@+id/textView62"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="124dp"
         android:layout_marginLeft="124dp"
         android:layout_marginTop="380dp"
-        android:text="@string/brown"
+        android:text="@string/corn"
         android:textColor="@color/colorText"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -215,23 +253,28 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <RadioButton
-            android:id="@+id/mixed"
+            android:id="@+id/pineapple"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onRadioButtonClicked" />
 
         <RadioButton
-            android:id="@+id/white"
+            android:id="@+id/tamago"
             android:layout_width="wrap_content"
             android:layout_height="165dp"
             android:onClick="onRadioButtonClicked" />
 
         <RadioButton
-            android:id="@+id/brown"
+            android:id="@+id/corn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="onRadioButtonClicked" />
 
+        <RadioButton
+            android:id="@+id/sesameseed"
+            android:layout_width="wrap_content"
+            android:layout_height="165dp"
+            android:onClick="onRadioButtonClicked" />
     </RadioGroup>
 
 
