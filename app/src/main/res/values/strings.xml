@@ -7,6 +7,7 @@
     <string name="questionmark">Questionmark</string>
     <string name="arrow">Arrow</string>
     <string name="rectangle">Rectangle</string>
+    <string name="image">Image</string>
 
     <!-- Main Page -->
     <string name="appTitle">PokeBowlGo</string>
@@ -67,13 +68,20 @@
     
     <!-- Create your own pokebowl -->
     <string name="createYourOwn">Create your own</string>
-    <string name="createYourPoke">Pokebowl</string>
-    <string name="chicken">Chicken</string>
-    <string name="kha1">30 kha</string>
-
+    <string name="createYourPokeBase">Pokebowl - Base</string>
+    <string name="createYourPokeSide">Pokebowl - Sides</string>
+    <string name="next">Next</string>
+    <string name="brown">Brown Rice</string>
+    <string name="white">White Rice</string>
+    <string name="mixed">Mixed Rice</string>
+    <string name="seaweed">Seaweed</string>
+    <string name="edamame">Edamame</string>
+    <string name="crab">Crab Meat</string>
+    <string name="avocado">Avocado</string>
 
     <!-- Selected Ingredients -->
     <string name="selectedIngredients">Selected ingredients</string>
+    <string name="createYourPoke">Pokebowl</string>
 
     <!-- Order Overview -->
     <string name="pokeOnItsWay">Pokebowl is on its way!</string>

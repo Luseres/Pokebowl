@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         createPokebowlBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, MakeBowl.class));
+                startActivity(new Intent(MainActivity.this, MakeBowlOne.class));
             }
         });
         termsBtn.setOnClickListener(new View.OnClickListener() {
