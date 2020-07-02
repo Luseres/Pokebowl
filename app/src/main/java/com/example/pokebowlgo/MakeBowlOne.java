@@ -18,11 +18,18 @@ public class MakeBowlOne extends AppCompatActivity {
         setContentView(R.layout.make_bowl_one);
 
         ImageView backBtn = (ImageView) findViewById(R.id.imageView10);
-
         backBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MakeBowlOne.this, MainActivity.class));
+            }
+        });
+
+        TextView nextBtn = (TextView) findViewById(R.id.textView30);
+        nextBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MakeBowlOne.this, MakeBowlTwo.class));
             }
         });
     }

@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.Toast;
@@ -23,6 +24,22 @@ public class AddressForm extends AppCompatActivity implements AdapterView.OnItem
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(adapter);
         spinner.setOnItemSelectedListener(this);
+
+        ImageView backBtn = (ImageView) findViewById(R.id.imageView6);
+        backBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(AddressForm.this, SelectedIngredients.class));
+            }
+        });
+
+        Button nextBtn = (Button) findViewById(R.id.button);
+        nextBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(AddressForm.this, PaymentMethod.class));
+            }
+        });
     }
 
     @Override

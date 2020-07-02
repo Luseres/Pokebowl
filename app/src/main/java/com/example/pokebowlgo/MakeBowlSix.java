@@ -2,9 +2,12 @@ package com.example.pokebowlgo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 import android.widget.RadioButton;
+import android.widget.TextView;
 
 public class MakeBowlSix extends AppCompatActivity {
 
@@ -13,7 +16,21 @@ public class MakeBowlSix extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.make_bowl_six);
 
+        ImageView backBtn = (ImageView) findViewById(R.id.imageView38);
+        backBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MakeBowlSix.this, MakeBowlFive.class));
+            }
+        });
 
+        TextView nextBtn = (TextView) findViewById(R.id.textView59);
+        nextBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MakeBowlSix.this, SelectedIngredients.class));
+            }
+        });
     }
 
     public void onRadioButtonClicked(View view) {

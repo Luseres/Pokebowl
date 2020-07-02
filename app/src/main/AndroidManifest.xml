@@ -15,9 +15,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity  android:name=".MakeBowlOne"  android:screenOrientation="portrait" />
+        <activity  android:name=".MakeBowlTwo"  android:screenOrientation="portrait" />
+        <activity  android:name=".MakeBowlThree"  android:screenOrientation="portrait" />
+        <activity  android:name=".MakeBowlFour"  android:screenOrientation="portrait" />
+        <activity  android:name=".MakeBowlFive"  android:screenOrientation="portrait" />
+        <activity  android:name=".MakeBowlSix"  android:screenOrientation="portrait" />
+        <activity  android:name=".AddressForm"  android:screenOrientation="portrait" />
+        <activity  android:name=".CreditcardPayment"  android:screenOrientation="portrait" />
+        <activity  android:name=".OrderOverview"  android:screenOrientation="portrait" />
+        <activity  android:name=".PaymentMethod"  android:screenOrientation="portrait" />
+        <activity  android:name=".SelectedIngredients"  android:screenOrientation="portrait" />
         <activity  android:name=".TermsOfService"  android:screenOrientation="portrait" />
         <activity  android:name=".WhatIsPoke"  android:screenOrientation="portrait" />
-        <activity  android:name=".MakeBowlOne"  android:screenOrientation="portrait" />
     </application>
 
 </manifest>
