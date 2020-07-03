@@ -24,10 +24,10 @@
 - [x] Eind product
 
 ## Verslag videos:
-Joshua: https://youtu.be/KtZf2SHhe-w
-Brian: https://www.youtube.com/watch?v=1IJfcyadMvU
-Osman: https://youtu.be/uPKPxAgoIfU
-Wiebe: /
+- Joshua: https://youtu.be/KtZf2SHhe-w
+- Brian: https://www.youtube.com/watch?v=1IJfcyadMvU
+- Osman: https://youtu.be/uPKPxAgoIfU
+- Wiebe: https://www.youtube.com/watch?v=SjjMrcafleU
 
 ## Testplan:
 - Bij het toevoegen van nieuwe functies testen wij deze uit met gebruik van Unit functies.
