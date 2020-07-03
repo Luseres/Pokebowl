@@ -16,12 +16,18 @@
 - [x] Presentatie 2
 - [x] User stories
 - [x] Testplan
-- [ ] Backend
-- [ ] Frontend
-- [ ] User tests
-- [ ] Presentatie 3
-- [ ] Accept Test
-- [ ] Eind product
+- [x] Backend
+- [x] Frontend
+- [x] User tests
+- [x] Presentatie 3
+- [x] Accept Test
+- [x] Eind product
+
+## Verslag videos:
+Joshua: https://youtu.be/KtZf2SHhe-w
+Brian: https://www.youtube.com/watch?v=1IJfcyadMvU
+Osman: https://youtu.be/uPKPxAgoIfU
+Wiebe: /
 
 ## Testplan:
 - Bij het toevoegen van nieuwe functies testen wij deze uit met gebruik van Unit functies.
